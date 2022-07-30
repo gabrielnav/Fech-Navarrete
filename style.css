@@ -1,0 +1,30 @@
+.Producto{
+  border: 10px solid rgb(255, 153, 0);
+  padding: 10px;
+  margin: 20px;
+  background-color: burlywood;
+
+}
+
+.boton-volver{
+  display: block;
+}
+
+#btnCarrito{
+  border-radius: 20px;
+  border: 10px solid rgb(67, 94, 62);
+  padding: 10px;
+  margin: 20px;
+  background-color: rgb(150, 156, 121);
+}
+
+
+#opciones{
+  border-radius: 20px;
+ 
+  background-color: burlywood;
+}
+#listadodePrendas{
+  border-radius: 20px;
+  background-color: burlywood;
+}
