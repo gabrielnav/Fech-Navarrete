@@ -1,0 +1,7 @@
+
+
+[
+    {"titulo":"Campera de cuero","imagen":"./img/Cuero1.jpg", "price": 1500, "diseñador": "KLOVERSTORE","descripcion": "En KLOVERSTORE podes encontrar la ultima tendencia en cuero 100% ecologico.","link": "https://www.youtube.com/watch?v=Q3xaq0aEfzM"},
+    {"titulo":"Conjunto","imagen":"./img/Mujer2.jpg","price": 1000,"diseñador":  "KLOVERSTORE","descripcion":  "La ultima tendencia en ropa formal la encontras en KLOVERSTORE.","link": "https://www.youtube.com/watch?v=Q3xaq0aEfzM"},
+    {"titulo":"Polera","imagen": "./img/Mujer4.jpg","price":3500,"diseñador":  "KLOVERSTORE", "descripcion": "En kloverstore podes encontrar todo nuevo de nuestra coleccion de OTOÑO 2022.","link": "https://www.youtube.com/watch?v=Q3xaq0aEfzM"}
+]
